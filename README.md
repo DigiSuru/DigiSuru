@@ -53,7 +53,7 @@ Here are some of the key technologies and tools I'm working with:
 
 I'm always open to connecting with fellow developers, learners, and potential collaborators.
 
-* **Email:** `[your-email@example.com]`
+* **Email:** `[suru7392@gmail.com]`
 * **LinkedIn:** `https://linkedin.com/in/[your-linkedin-username]`
 
 <br/>
